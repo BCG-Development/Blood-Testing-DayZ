@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class Blood-Testing-DayZ
+	class BloodTestingDayZ
 	{
 		units[] = {};
 		weapons[] = {};
@@ -14,15 +14,15 @@ class CfgPatches
 };
 class CfgMods
 {
-	class Blood-Testing-DayZ
+	class BloodTestingDayZ
 	{
-		dir = "Blood-Testing-DayZ";
+		dir = "BloodTestingDayZ";
 		picture = "";
 		action = "";
 		hideName = 1;
 		hidePicture = 1;
-		name = "Blood-Testing-DayZ";
-		credits = "CostaGeoDev";
+		name = "BloodTestingDayZ";
+		credits = "BCG-Development";
 		author = "";
 		authorID = "0";
 		version = "1.0";
