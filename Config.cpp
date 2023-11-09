@@ -21,8 +21,8 @@ class CfgMods
 		action = "";
 		hideName = 1;
 		hidePicture = 1;
-		name = "BloodTestingDayZ";
-		credits = "BCG-Development";
+		name = "Blood-Testing-DayZ";
+		credits = "CostaGeoDev";
 		author = "";
 		authorID = "0";
 		version = "1.0";
