@@ -22,7 +22,7 @@ class CfgMods
 		hideName = 1;
 		hidePicture = 1;
 		name = "Blood-Testing-DayZ";
-		credits = "CostaGeoDev";
+		credits = "BCG-Development";
 		author = "";
 		authorID = "0";
 		version = "1.0";
